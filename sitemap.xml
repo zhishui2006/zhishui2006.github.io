@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhishui2006.github.io/p/7e085c20d0fa4ae08b1ed5891cc1eaa6/</loc>
+    
+    <lastmod>2024-06-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhishui2006.github.io/tags/index.html</loc>
     
     <lastmod>2024-06-17</lastmod>
@@ -19,24 +28,22 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://zhishui2006.github.io/2024/061716107.html</loc>
-    
-    <lastmod>2024-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://zhishui2006.github.io/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://zhishui2006.github.io/categories/000%E8%AF%95%E9%AA%8C%E6%9C%AC%E2%80%A6%E2%80%A6/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
